@@ -1,2 +1,1 @@
 # MobileDeveloperTask
-Mobile developer task
